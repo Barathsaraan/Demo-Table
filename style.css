@@ -1,0 +1,19 @@
+button{
+	width: 100%;
+	background-color:yellow;
+	border:none;
+	cursor:pointer;
+	padding: 14px;
+	margin:10px 0 15px 0;
+}
+
+.demo email{
+	
+	width:100%;
+	background-color:yellow;
+	border:none;
+}
+input[type=email],input[type=password]{
+	width:100%;
+	background-color:white;
+}
